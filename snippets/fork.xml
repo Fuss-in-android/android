@@ -22,7 +22,7 @@
   <!-- <remove-project name="LineageOS/android_frameworks_opt_telephony" /> -->
   <remove-project name="LineageOS/android_lineage-sdk" />
   <remove-project name="LineageOS/android_packages_apps_LineageParts" />
-  <remove-project name="LineageOS/android_packages_apps_Settings" />
+  <!-- <remove-project name="LineageOS/android_packages_apps_Settings" /> -->
   <remove-project name="LineageOS/android_packages_services_Telecomm" />
   <remove-project name="LineageOS/android_packages_apps_ThemePicker" />
   <remove-project name="LineageOS/android_packages_apps_WallpaperPicker2" />
