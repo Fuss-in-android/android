@@ -111,7 +111,7 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="hyper" revision="lineage-18.1" />
   <!-- <project path="frameworks/base" name="android_frameworks_base" remote="hyper" revision="lineage-18.1" /> -->
   <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="hyper" revision="lineage-18.1" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk" remote="hyper" revision="lineage-18.1" />
+  <!-- <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk" remote="hyper" revision="lineage-18.1" /> -->
   <project path="frameworks/support/lottie" name="crdroidandroid/android_frameworks_support_lottie" remote="github" revision="11.0" />
   <project path="frameworks/libs/native_bridge_support" name="frameworks_libs_native_bridge_support" remote="hyper" revision="lineage-18.1" />
   <project path="frameworks/ml" name="frameworks_ml" remote="hyper" revision="lineage-18.1" />
