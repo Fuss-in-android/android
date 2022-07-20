@@ -17,9 +17,9 @@
   <remove-project name="LineageOS/android_bionic" />
   <remove-project name="LineageOS/android_device_lineage_sepolicy" />
   <remove-project name="LineageOS/android_frameworks_av" />
-  <remove-project name="LineageOS/android_frameworks_base" />
+  <!-- <remove-project name="LineageOS/android_frameworks_base" /> -->
   <remove-project name="LineageOS/android_frameworks_native" />
-  <remove-project name="LineageOS/android_frameworks_opt_telephony" />
+  <!-- <remove-project name="LineageOS/android_frameworks_opt_telephony" /> -->
   <remove-project name="LineageOS/android_lineage-sdk" />
   <remove-project name="LineageOS/android_packages_apps_LineageParts" />
   <remove-project name="LineageOS/android_packages_apps_Settings" />
@@ -130,7 +130,7 @@
   <!-- Packages, services repos -->
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="hyper" revision="lineage-18.1" />
   <project path="packages/apps/RealmeParts" name="HyperTeam/android_packages_apps_RealmeParts" remote="github" revision="lineage-18.1" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="hyper" revision="lineage-18.1" />
+  <!-- <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="hyper" revision="lineage-18.1" /> -->
   <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="hyper" revision="lineage-18.1" />
   <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="hyper" revision="lineage-18.1" />
   <project path="packages/overlays/Lineage" name="android_packages_overlays_Lineage" remote="hyper" revision="lineage-18.1" />
@@ -157,7 +157,7 @@
   <project path="system/netd" name="android_system_netd" remote="hyper" revision="lineage-18.1" />
   <project path="system/hwservicemanager" name="system_hwservicemanager" remote="hyper" revision="lineage-18.1" />
   <project path="system/linkerconfig" name="system_linkerconfig" remote="hyper" revision="lineage-18.1" />
-  <project path="system/bt" name="android_system_bt" remote="hyper" revision="lineage-18.1" />
+  <!-- <project path="system/bt" name="android_system_bt" remote="hyper" revision="lineage-18.1" /> -->
   <project path="system/memory/lmkd" name="system_memory_lmkd" remote="hyper" revision="lineage-18.1" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="hyper" revision="lineage-18.1" />
 
